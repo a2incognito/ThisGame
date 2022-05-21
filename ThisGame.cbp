@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ThisGame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ThisGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=gnu++17" />
+					<Add option="-g" />
+					<Add directory="../../SDL2-2.0.20/x86_64-w64-mingw32/include/SDL2" />
+					<Add directory="../../SDL2_image-2.0.5/x86_64-w64-mingw32/include/SDL2" />
+					<Add directory="source/Core" />
+					<Add directory="src/Core" />
+					<Add directory="Graphic" />
+					<Add directory="src/Physics" />
+					<Add directory="src" />
+					<Add directory="src/Graphics" />
+					<Add directory="src/Object" />
+					<Add directory="src/Characters" />
+					<Add directory="./" />
+					<Add directory="src/Graphic" />
+					<Add directory="src/Animation" />
+					<Add directory="src/Events" />
+					<Add directory="src/Timer" />
+					<Add directory="src/Map" />
+					<Add directory="src/TinyXML" />
+					<Add directory="src/Collision" />
+					<Add directory="src/Client" />
+					<Add directory="../../SDL2_mixer-2.0.4/x86_64-w64-mingw32/include/SDL2" />
+					<Add directory="src/Sound" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDL2main -lSDL2" />
+					<Add option="-lSDL2_image -lSDL2_mixer" />
+					<Add option="-mwindows  -Wl,--no-undefined -Wl,--dynamicbase -Wl,--nxcompat -Wl,--high-entropy-va -lm -ldinput8 -ldxguid -ldxerr8 -luser32 -lgdi32 -lwinmm -limm32 -lole32 -loleaut32 -lshell32 -lsetupapi -lversion -luuid -static-libgcc" />
+					<Add directory="../../SDL2_image-2.0.5/x86_64-w64-mingw32/lib" />
+					<Add directory="../../SDL2-2.0.20/x86_64-w64-mingw32/lib" />
+					<Add directory="../../SDL2_mixer-2.0.4/x86_64-w64-mingw32/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ThisGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="source/Core" />
+					<Add directory="src/Core" />
+					<Add directory="Graphic" />
+					<Add directory="src/Physics" />
+					<Add directory="src" />
+					<Add directory="src/Graphics" />
+					<Add directory="src/Object" />
+					<Add directory="src/Characters" />
+					<Add directory="./" />
+					<Add directory="src/Graphic" />
+					<Add directory="src/Animation" />
+					<Add directory="src/Events" />
+					<Add directory="src/Timer" />
+					<Add directory="src/Map" />
+					<Add directory="src/Collision" />
+					<Add directory="src/Client" />
+					<Add directory="src/Sound" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Main.cpp" />
+		<Unit filename="src/Animation/Animation.cpp" />
+		<Unit filename="src/Animation/Animation.h" />
+		<Unit filename="src/Characters/Boss.cpp" />
+		<Unit filename="src/Characters/Boss.h" />
+		<Unit filename="src/Characters/Character.h" />
+		<Unit filename="src/Characters/Warrior.cpp" />
+		<Unit filename="src/Characters/Warrior.h" />
+		<Unit filename="src/Characters/Worm.cpp" />
+		<Unit filename="src/Characters/Worm.h" />
+		<Unit filename="src/Client/ClientGame.cpp" />
+		<Unit filename="src/Client/ClientGame.h" />
+		<Unit filename="src/Collision/CollisionHandling.cpp" />
+		<Unit filename="src/Collision/CollisionHandling.h" />
+		<Unit filename="src/Core/Engine.cpp" />
+		<Unit filename="src/Core/Engine.h" />
+		<Unit filename="src/Events/EventHandler.cpp" />
+		<Unit filename="src/Events/EventHandler.h" />
+		<Unit filename="src/Graphics/TextureManager.cpp" />
+		<Unit filename="src/Graphics/TextureManager.h" />
+		<Unit filename="src/Map/MapCode.cpp" />
+		<Unit filename="src/Map/MapCode.h" />
+		<Unit filename="src/Object/GameObject.h" />
+		<Unit filename="src/Physics/Checker.h" />
+		<Unit filename="src/Physics/RigidBody.h" />
+		<Unit filename="src/Physics/Transform.h" />
+		<Unit filename="src/Physics/Vector.h" />
+		<Unit filename="src/Sound/Amthanh.cpp" />
+		<Unit filename="src/Sound/Amthanh.h" />
+		<Unit filename="src/Timer/Timer.cpp" />
+		<Unit filename="src/Timer/Timer.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

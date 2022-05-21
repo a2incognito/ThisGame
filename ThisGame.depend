@@ -1,0 +1,911 @@
+# depslib dependency file v1.0
+1647922402 source:e:\uet\advancedprogramming\test\thisgame\main.cpp
+	"Engine.h"
+	"SDL.h"
+	"SDL_image.h"
+	<iostream>
+	"Timer.h"
+	"TextureManager.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 e:\uet\advancedprogramming\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1649161029 e:\uet\advancedprogramming\test\thisgame\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+	"Transform.h"
+	"Animation.h"
+
+1561870398 e:\uet\advancedprogramming\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653064199 source:e:\uet\advancedprogramming\test\thisgame\src\core\engine.cpp
+	"Engine.h"
+	<iostream>
+	"SDL_image.h"
+	"SDL.h"
+	"SDL_mixer.h"
+	"TextureManager.h"
+	"MapCode.h"
+	"Warrior.h"
+	"EventHandler.h"
+	"CollisionHandling.h"
+	"Timer.h"
+	"Checker.h"
+	"ClientGame.h"
+	"Amthanh.h"
+
+1646448706 source:e:\uet\advancedprogramming\test\thisgame\graphic\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1646448526 e:\uet\advancedprogramming\test\thisgame\graphic\texturemanager.h
+	"SDL.h"
+	<string>
+	<map>
+
+1646449488 source:e:\uet\advancedprogramming\test\thisgame\src\physics\vector.cpp
+	"Vector.h"
+
+1648582376 e:\uet\advancedprogramming\test\thisgame\src\physics\vector.h
+	<iostream>
+
+1649161994 source:e:\uet\advancedprogramming\test\thisgame\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1648582225 e:\uet\advancedprogramming\test\thisgame\src\graphics\texturemanager.h
+	"SDL.h"
+	<string>
+	<map>
+
+1653063092 source:e:\uet\advancedprogramming\test\thisgame\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManager.h"
+	"EventHandler.h"
+	"Engine.h"
+	"CollisionHandling.h"
+	"MapCode.h"
+	"Amthanh.h"
+	"SDL.h"
+
+1649157262 e:\uet\advancedprogramming\test\thisgame\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Checker.h"
+	<string>
+	"Vector.h"
+
+1648575258 e:\uet\advancedprogramming\test\thisgame\src\characters\character.h
+	"GameObject.h"
+	<string>
+
+1648582413 e:\uet\advancedprogramming\test\thisgame\src\object\gameobject.h
+	"Transform.h"
+	"SDL_image.h"
+	<string>
+
+1647087737 e:\uet\advancedprogramming\test\thisgame\src\object\object.h
+
+1646722856 e:\uet\advancedprogramming\test\thisgame\src\physics\transform.h
+	"Vector.h"
+
+1646654488 source:e:\uet\advancedprogramming\test\thisgame\src\graphic\texture.cpp
+	"Texture.h"
+
+1646654477 e:\uet\advancedprogramming\test\thisgame\src\graphic\texture.h
+	"SDL.h"
+	<string>
+	<map>
+
+1649161892 source:e:\uet\advancedprogramming\test\thisgame\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManager.h"
+
+1648581851 e:\uet\advancedprogramming\test\thisgame\src\animation\animation.h
+	"SDL_image.h"
+	"SDL.h"
+	<string>
+
+1648582910 e:\uet\advancedprogramming\test\thisgame\src\physics\rigidbody.h
+	"Vector.h"
+
+1648582184 source:e:\uet\advancedprogramming\test\thisgame\src\events\eventhandler.cpp
+	"EventHandler.h"
+	"Engine.h"
+	"SDL.h"
+
+1648582180 e:\uet\advancedprogramming\test\thisgame\src\events\eventhandler.h
+	"SDL.h"
+
+1646846260 source:e:\uet\advancedprogramming\test\thisgame\src\timer\timer.cpp
+	"Timer.h"
+	"SDL.h"
+
+1646826966 e:\uet\advancedprogramming\test\thisgame\src\timer\timer.h
+
+1653060780 e:\uet\advancedprogramming\test\thisgame\src\map
+
+1647070052 source:e:\uet\advancedprogramming\test\thisgame\src\map\tiles.cpp
+	"Tiles.h"
+
+1647058169 e:\uet\advancedprogramming\test\thisgame\src\map\tiles.h
+	"Layer.h"
+	<string>
+	<vector>
+
+1646850346 source:e:\uet\advancedprogramming\test\thisgame\djtconme.cpp
+	"Djtconme.h"
+
+1646850346 e:\uet\advancedprogramming\test\thisgame\djtconme.h
+
+1647087721 e:\uet\advancedprogramming\test\thisgame\src\map\layer.h
+
+1647088823 source:e:\uet\advancedprogramming\test\thisgame\src\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1647088823 e:\uet\advancedprogramming\test\thisgame\src\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1647088823 source:e:\uet\advancedprogramming\test\thisgame\src\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1647088921 e:\uet\advancedprogramming\test\thisgame\src\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1647088823 source:e:\uet\advancedprogramming\test\thisgame\src\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1647088823 source:e:\uet\advancedprogramming\test\thisgame\src\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1646984321 source:e:\uet\advancedprogramming\test\thisgame\src\map\mapparser.cpp
+	"MapParser.h"
+
+1646984234 e:\uet\advancedprogramming\test\thisgame\src\map\mapparser.h
+	<map>
+	<string>
+	"Map.h"
+	"Layer.h"
+	"tinyxml.h"
+
+1647086420 e:\uet\advancedprogramming\test\thisgame\src\map\map.h
+	<bits/stdc++.h>
+
+1647086291 source:e:\uet\advancedprogramming\test\thisgame\src\map\map.cpp
+	"Map.h"
+
+1649157832 source:e:\uet\advancedprogramming\test\thisgame\src\collision\collisionhandling.cpp
+	"CollisionHandling.h"
+	"Engine.h"
+	"SDL.h"
+	<iostream>
+
+1648788300 e:\uet\advancedprogramming\test\thisgame\src\collision\collisionhandling.h
+	"SDL.h"
+	<vector>
+	"MapCode.h"
+	"Warrior.h"
+
+1647103780 source:e:\uet\advancedprogramming\test\thisgame\src\map\tile.cpp
+	"Tile.h"
+
+1647089937 e:\uet\advancedprogramming\test\thisgame\src\map\tile.h
+	"Layer.h"
+	<string>
+	<vector>
+
+1653060780 source:e:\uet\advancedprogramming\test\thisgame\src\map\mapcode.cpp
+	<Windows.h>
+	<unistd.h>
+	"MapCode.h"
+	"TextureManager.h"
+	<bits/stdc++.h>
+	"SDL.h"
+
+1653060780 e:\uet\advancedprogramming\test\thisgame\src\map\mapcode.h
+	<iostream>
+	<string>
+	<vector>
+	"Worm.h"
+	"Bat.h"
+	"Boss.h"
+	"Warrior.h"
+
+1647176365 source:e:\uet\advancedprogramming\test\thisgame\src\map\parsemap.cpp
+	"ParseMap.h"
+	<iostream>
+
+1647110341 e:\uet\advancedprogramming\test\thisgame\src\map\parsemap.h
+	<map>
+	<string>
+	"GameMap.h"
+	"Tile.h"
+	"tinyxml.h"
+
+1647103659 e:\uet\advancedprogramming\test\thisgame\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+
+1649157767 e:\uet\advancedprogramming\test\thisgame\src\physics\checker.h
+	"SDL.h"
+
+1647186488 source:e:\code\sdl2\thisgame\main.cpp
+	"Engine.h"
+	"SDL.h"
+	"SDL_image.h"
+	<iostream>
+	"Timer.h"
+
+1647074744 e:\code\sdl2\thisgame\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+
+1646826966 e:\code\sdl2\thisgame\src\timer\timer.h
+
+1647197302 source:e:\code\sdl2\thisgame\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManager.h"
+
+1647197302 e:\code\sdl2\thisgame\src\animation\animation.h
+	"SDL_image.h"
+	"SDL.h"
+	<string>
+
+1647086604 e:\code\sdl2\thisgame\src\graphics\texturemanager.h
+	"SDL.h"
+	<string>
+	<map>
+
+1647449069 e:\code\sdl2\thisgame\src\map
+
+1647358299 source:e:\code\sdl2\thisgame\src\collision\collisionhandling.cpp
+	"CollisionHandling.h"
+	"Engine.h"
+	"SDL.h"
+	<iostream>
+
+1647319454 e:\code\sdl2\thisgame\src\collision\collisionhandling.h
+	"SDL.h"
+	<vector>
+	"MapCode.h"
+
+1647187477 e:\code\sdl2\thisgame\src\map\mapcode.h
+	<iostream>
+	<string>
+
+1647450613 source:e:\code\sdl2\thisgame\src\core\engine.cpp
+	"Engine.h"
+	<iostream>
+	"SDL_image.h"
+	"SDL.h"
+	"TextureManager.h"
+	"MapCode.h"
+	"Warrior.h"
+	"EventHandler.h"
+	"CollisionHandling.h"
+	"Timer.h"
+	"Map.h"
+
+1647454043 e:\code\sdl2\thisgame\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Checker.h"
+	<string>
+	"Vector.h"
+
+1647454060 e:\code\sdl2\thisgame\src\characters\character.h
+	"GameObject.h"
+	<string>
+
+1646847865 e:\code\sdl2\thisgame\src\object\gameobject.h
+	"Object.h"
+	"Transform.h"
+	"SDL_image.h"
+	<string>
+
+1647087737 e:\code\sdl2\thisgame\src\object\object.h
+
+1646722856 e:\code\sdl2\thisgame\src\physics\transform.h
+	"Vector.h"
+
+1646636064 e:\code\sdl2\thisgame\src\physics\vector.h
+	<iostream>
+
+1647342377 e:\code\sdl2\thisgame\src\physics\rigidbody.h
+	"Vector.h"
+
+1647258536 e:\code\sdl2\thisgame\src\physics\checker.h
+	"SDL.h"
+
+1646757972 e:\code\sdl2\thisgame\src\events\eventhandler.h
+	"SDL.h"
+
+1647086420 e:\code\sdl2\thisgame\src\map\map.h
+	<bits/stdc++.h>
+
+1647197849 source:e:\code\sdl2\thisgame\src\events\eventhandler.cpp
+	"EventHandler.h"
+	"Engine.h"
+	"SDL.h"
+
+1647087135 source:e:\code\sdl2\thisgame\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1647256678 source:e:\code\sdl2\thisgame\src\map\mapcode.cpp
+	"MapCode.h"
+	<bits/stdc++.h>
+	"SDL.h"
+
+1647176365 source:e:\code\sdl2\thisgame\src\map\parsemap.cpp
+	"ParseMap.h"
+	<iostream>
+
+1647110341 e:\code\sdl2\thisgame\src\map\parsemap.h
+	<map>
+	<string>
+	"GameMap.h"
+	"Tile.h"
+	"tinyxml.h"
+
+1647103659 e:\code\sdl2\thisgame\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+
+1647087721 e:\code\sdl2\thisgame\src\map\layer.h
+
+1647089937 e:\code\sdl2\thisgame\src\map\tile.h
+	"Layer.h"
+	<string>
+	<vector>
+
+1647088921 e:\code\sdl2\thisgame\src\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1647088823 e:\code\sdl2\thisgame\src\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1647103780 source:e:\code\sdl2\thisgame\src\map\tile.cpp
+	"Tile.h"
+
+1646846260 source:e:\code\sdl2\thisgame\src\timer\timer.cpp
+	"Timer.h"
+	"SDL.h"
+
+1647088823 source:e:\code\sdl2\thisgame\src\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1647088823 source:e:\code\sdl2\thisgame\src\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1647088823 source:e:\code\sdl2\thisgame\src\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1647088823 source:e:\code\sdl2\thisgame\src\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1647453413 source:e:\code\sdl2\thisgame\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManager.h"
+	"EventHandler.h"
+	"Engine.h"
+	"CollisionHandling.h"
+	"SDL.h"
+
+1647457143 source:e:\uet\advancedprogramming\test\thisgame\src\characters\enemy.cpp
+	"Enemy.h"
+
+1647454401 e:\uet\advancedprogramming\test\thisgame\src\characters\enemy.h
+	"Character.h"
+	"Animation.h"
+	"Checker.h"
+	<string>
+	"Vector.h"
+	"Transform.h"
+
+1647621167 source:e:\uet\advancedprogramming\test\thisgame\src\characters\bat.cpp
+	"Bat.h"
+	"TextureManager.h"
+	"EventHandler.h"
+	"Engine.h"
+	"CollisionHandling.h"
+	"SDL.h"
+
+1647621167 e:\uet\advancedprogramming\test\thisgame\src\characters\bat.h
+	"Character.h"
+	"Animation.h"
+	"Checker.h"
+	<string>
+	"Vector.h"
+	"Transform.h"
+
+1653064021 source:e:\uet\advancedprogramming\test\thisgame\src\characters\boss.cpp
+	"Boss.h"
+	"TextureManager.h"
+	"EventHandler.h"
+	"Engine.h"
+	"CollisionHandling.h"
+	"Amthanh.h"
+	"SDL.h"
+
+1648578513 e:\uet\advancedprogramming\test\thisgame\src\characters\boss.h
+	"Character.h"
+	"Animation.h"
+	"Checker.h"
+	<string>
+	"Vector.h"
+	"Transform.h"
+
+1653092387 source:e:\uet\advancedprogramming\test\thisgame\src\characters\worm.cpp
+	"Worm.h"
+	"TextureManager.h"
+	"EventHandler.h"
+	"Engine.h"
+	"CollisionHandling.h"
+	"SDL.h"
+
+1648582537 e:\uet\advancedprogramming\test\thisgame\src\characters\worm.h
+	"Character.h"
+	"Animation.h"
+	"Checker.h"
+	<string>
+	"Vector.h"
+	"Transform.h"
+
+1653062935 source:e:\uet\advancedprogramming\test\thisgame\src\client\clientgame.cpp
+	"ClientGame.h"
+	"TextureManager.h"
+	"EventHandler.h"
+	"Engine.h"
+	"Amthanh.h"
+
+1653062855 e:\uet\advancedprogramming\test\thisgame\src\client\clientgame.h
+	"SDL.h"
+	"Animation.h"
+	<string>
+	"Transform.h"
+
+1540998018 e:\uet\advancedprogramming\sdl2_mixer-2.0.4\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653062735 source:e:\uet\advancedprogramming\test\thisgame\src\sound\sound.cpp
+	"Sound.h"
+
+1653062761 e:\uet\advancedprogramming\test\thisgame\src\sound\sound.h
+	"SDL_mixer.h"
+	<iostream>
+	<string>
+
+1653062902 source:e:\uet\advancedprogramming\test\thisgame\src\sound\amthanh.cpp
+	"Amthanh.h"
+
+1653062879 e:\uet\advancedprogramming\test\thisgame\src\sound\amthanh.h
+	"SDL_mixer.h"
+	<iostream>
+	<string>
+
